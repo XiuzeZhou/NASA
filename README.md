@@ -1,6 +1,6 @@
-# NASA 锂电池数据集，用 Python 来提取锂电池寿命预测（Remaining Useful Life，RUL）的相关数据
+# NASA 锂电池数据集，基于 Python 的锂电池寿命预测（Remaining Useful Life，RUL）& （End Of Life，EOF）
 
-**中文介绍：** http://snailwish.com/383/
+**中文介绍：** http://snailwish.com/395/
 
 **Homepage:** http://zhouxiuze.com
 
