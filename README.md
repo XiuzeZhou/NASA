@@ -2,7 +2,7 @@
 
 **NASA 数据集处理：** http://snailwish.com/395/
 
-**MLP 预测锂电池寿命：** http://snailwish.com/395/
+**MLP 预测锂电池寿命：** http://snailwish.com/427/
 
 **Homepage:** http://zhouxiuze.com
 
