@@ -1,9 +1,15 @@
-# NASA 锂电池数据集，基于 Python 的锂电池寿命预测（Remaining Useful Life，RUL）& （End Of Life，EOF）
+# NASA 锂电池数据集，基于 Python 的锂电池寿命预测（Remaining Useful Life，RUL）& （End Of Life，EOL）
 
-**NASA 数据集处理：** http://snailwish.com/395/
-
-**MLP 预测锂电池寿命：** http://snailwish.com/427/
+**主要库版本：** pytorch 1.6.0
 
 **Homepage:** http://zhouxiuze.com
 
 **个人博客：** http://snailwish.com/
+
+**更多内容**
+
+1. NASA 锂电池数据集，基于 Python 的锂电池寿命预测: http://snailwish.com/395/
+
+2. NASA 锂电池数据集，基于 python 的 MLP 锂电池寿命预测: http://snailwish.com/427/
+
+3. 马里兰大学锂电池数据集 CALCE，基于 Python 的锂电池寿命预测: http://snailwish.com/437/
