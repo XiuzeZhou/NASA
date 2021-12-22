@@ -2,13 +2,14 @@
 
 **主要库版本：** pytorch 1.6.0
 
-**版本更新** 2021年12月 添加数据读取模块
+**版本更新** 
+1. 2021年12月 添加数据读取模块
 
-如果原始数据集无法成功读取，可以直接选择加载我已经提取出来的数据：NASA.npy
+  如果原始数据集无法成功读取，可以直接选择加载我已经提取出来的数据：NASA.npy
 
-Battery = np.load('NASA.npy', allow_pickle=True)
+  Battery = np.load('NASA.npy', allow_pickle=True)
 
-Battery = Battery.item()
+  Battery = Battery.item()
 
 **Homepage:** http://zhouxiuze.com
 
