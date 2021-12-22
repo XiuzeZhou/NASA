@@ -2,6 +2,12 @@
 
 **主要库版本：** pytorch 1.6.0
 
+**注意：** 如果原始数据集无法成功读取，可以直接选择加载我已经提取出来的数据：NASA.npy
+
+Battery = np.load('NASA.npy', allow_pickle=True)
+
+Battery = Battery.item()
+
 **Homepage:** http://zhouxiuze.com
 
 **个人博客：** http://snailwish.com/
