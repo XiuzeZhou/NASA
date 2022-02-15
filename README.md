@@ -10,6 +10,8 @@
   Battery = np.load('NASA.npy', allow_pickle=True)
 
   Battery = Battery.item()
+  
+2. 2022年2月，解决错误“Tensor for argument #2 ‘mat1’ is on CPU, but expected it to be on GPU (while checking arguments for addmm)”
 
 **Homepage:** http://zhouxiuze.com
 
