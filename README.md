@@ -1,6 +1,14 @@
 # NASA 锂电池数据集，基于 Python 的锂电池寿命预测（Remaining Useful Life，RUL）& （End Of Life，EOL）
 
-**主要库版本：** pytorch 1.6.0
+**主要库版本：** 
+
+- pytorch 1.6.0
+
+**相关论文：** 
+
+- D. Chen, W. Hong, and X. Zhou, "Transformer Network for Remaining Useful Life Prediction of Lithium-Ion Batteries", IEEE Access, 2022.
+
+欢迎引用！
 
 **版本更新** 
 
