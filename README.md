@@ -8,7 +8,7 @@
 
 - pytorch 1.6.0
 
-**版本更新** 
+**版本更新：**  
 
 - 2022年2月24日，修改部分变量名字
 
@@ -21,10 +21,14 @@
     Battery = np.load('NASA.npy', allow_pickle=True)
 
     Battery = Battery.item()
+    
+ **有任何问题，欢迎留言！**
 
 **Homepage:** http://zhouxiuze.com
 
-**个人博客：** http://snailwish.com/
+**个人博客：** http://snailwish.com
+
+**个人邮箱：** zhouxiuze@foxmail.com
 
 **更多内容**
 
