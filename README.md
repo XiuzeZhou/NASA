@@ -1,12 +1,8 @@
 # NASA 锂电池数据集，基于 Python 的锂电池寿命预测（Remaining Useful Life，RUL）& （End Of Life，EOL）
 
-**相关论文：** 欢迎引用！
-
-- D. Chen, W. Hong, and X. Zhou, "Transformer Network for Remaining Useful Life Prediction of Lithium-Ion Batteries", IEEE Access, 2022. [PDF download](https://github.com/XiuzeZhou/xiuzezhou.github.io/tree/main/pub/Transformer.pdf) 
-
 **主要库版本：** 
 
-- pytorch 1.6.0
+- pytorch >=1.6.0
 
 **关于代码的说明：**
 
@@ -26,6 +22,8 @@ y = np.reshape(train_y[:,-1]/Rated_Capacity,(-1,1)).astype(np.float32)
 
 
 **版本更新：**  
+
+- 2024年5月12日，修改部分代码以及添加预测图像
 
 - 2022年2月24日，修改部分变量名字
 
@@ -58,3 +56,18 @@ y = np.reshape(train_y[:,-1]/Rated_Capacity,(-1,1)).astype(np.float32)
 4. NASA 和 CALCE 锂电池数据集，基于 Pytorch 的 RNN、LSTM、GRU 寿命预测: https://snailwish.com/497/
 
 5. 基于 Pytorch 的 Transformer 锂电池寿命预测: https://snailwish.com/555/
+
+**参考文献**
+
+```
+@article{chen2022transformer,
+  title={Transformer network for remaining useful life prediction of lithium-ion batteries},
+  author={Chen, Daoquan and Hong, Weicong and Zhou, Xiuze},
+  journal={Ieee Access},
+  volume={10},
+  pages={19621--19628},
+  year={2022},
+  publisher={IEEE}
+}
+```
+[PDF download](https://github.com/XiuzeZhou/xiuzezhou.github.io/tree/main/pub/Transformer.pdf)
