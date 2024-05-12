@@ -4,6 +4,10 @@
 
 - pytorch >=1.6.0
 
+**预测结果**
+
+<img src="figures/prediction_nasa.png" width = "100%" />
+
 **关于代码的说明：**
 
 最近经常收到有同学问代码中一些问题，现汇总如下：
